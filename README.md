@@ -1,6 +1,6 @@
-project name- BusQ
+Project Name- BusQ
 
---------members Names & it numbers--------------------
+--------Members Names & IT Numbers-------------------
 
 01. IT17127974 - KURAWEEKA K.K.D.P.M
 02. IT17154086 - KALANSOORIYA D.M.T.K
